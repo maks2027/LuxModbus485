@@ -26,7 +26,7 @@
 
 
 #include "RTClib.h"
-#include "GyverTM1637.h"
+#include "GyverTM1637.h" // в библеотеку добавлена возможно управления отдельными точками
 #include "GyverWDT.h"
 #include "GyverTimer.h"
 
